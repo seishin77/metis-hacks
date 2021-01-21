@@ -10,6 +10,6 @@ Les hacks se trouvant dans `apprenants` ne concernent que les interfaces des app
 # Installation
 
 1. Installer ViolentMonkey
-https://violentmonkey.github.io/
+CTRL+clic sur https://violentmonkey.github.io/
 
 2. Installer les scripts que vous souhaitez

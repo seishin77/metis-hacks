@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         helped_navigation
 // @namespace    metis.afpa.fr
-// @version      0.2
+// @version      0.3
 // @description  display the section number in the left navbar
 // @author       yannick.kohler@afpa.fr
 // @match        https://metis.afpa.fr/*

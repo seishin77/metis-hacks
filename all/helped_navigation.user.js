@@ -17,6 +17,8 @@
     'use strict';
     let links = $('nav#coursenavigation .tree_item_text a[title]');
     links.each(function(){
-        $(this).text($(this).attr('title'));
+        let link = $(this).attr('title');
+        link = link.substring(0, link.indexOf('(')-1);
+        $(this).text(link);
     });
 })(jQuery.noConflict());

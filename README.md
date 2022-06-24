@@ -17,11 +17,11 @@ Les hacks se trouvant dans `apprenants` ne concernent que les interfaces des app
 
 a. Pour tout le monde
 
-| Script | Url |
-| --- | --- |
-| Numérotation des modules/séquences/séances | https://github.com/seishin77/metis-hacks/raw/master/all/helped_navigation.user.js |
+| Script | Url | Remarques |
+| --- | --- | --- |
+| Numérotation des modules/séquences/séances | https://github.com/seishin77/metis-hacks/raw/master/all/helped_navigation.user.js | Attention ! La numérotation peut être différente entre Formateurs et Stagiaires avec les éléments supprimés/masqués |
 
 b. Pour les formateurs
-| Script | Url |
-| --- | --- |
-| Bouton "Activer le mode édition" dans la barre de navigation | https://github.com/seishin77/metis-hacks/raw/master/formateurs/Editer_parcours_navbar.user.js |
+| Script | Url | Remarques |
+| --- | --- | --- |
+| Bouton "Activer le mode édition" dans la barre de navigation | https://github.com/seishin77/metis-hacks/raw/master/formateurs/Editer_parcours_navbar.user.js | |
